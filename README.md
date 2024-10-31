@@ -149,4 +149,4 @@ sepal.length,"sepal.width","petal.length","petal.width","variety"
 6.5,3,5.2,2,"Virginica"
 6.2,3.4,5.4,2.3,"Virginica"
 5.9,3,5.1,1.8,"Virginica"
-![image](https://github.com/user-attachments/assets/192b12ab-5871-48fb-905a-cfc2d044671f)
+
